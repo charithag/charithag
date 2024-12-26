@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Charitha Goonetilleke, a Technical Lead at Entgra where my core focus is the IoT platform and related solutions and to push boundaries in the world of IoT to help grow businesses. I was former associate technical lead at WSO2 and contributed to WSO2 EMM & IoTS products.
+I'm Charitha Goonetilleke, currently an Architect at Entgra, where I dedicate my expertise to pioneering IoT platforms and crafting innovative solutions. My mission is to push the boundaries of IoT to drive business growth and foster technological advancements.
+
+Before joining Entgra, I was an Associate Technical Lead at WSO2, where I played a crucial role in the development and enhancement of the WSO2 EMM & IoTS products. My journey through these roles has equipped me with a deep understanding of the IoT landscape and a passion for developing cutting-edge solutions that transform businesses.
+
+I'm passionate about learning, sharing knowledge, and collaborating on exciting projects that challenge the status quo. Feel free to explore my repositories, and let's connect to push the frontiers of technology together!
 <br/>
 
 <p><img src="https://komarev.com/ghpvc/?username=charithag&label=Profile%20views&color=0e75b6&style=flat" alt="charithag" /> </p>
